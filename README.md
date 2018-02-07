@@ -10,10 +10,10 @@
 5454. The sendding rate between server and client is 50fps and it is located in side server.h. You can change it to below 
 20 if there are many connections. The sennding rate will not affect game play experience, because the client side uses 
 client-prediction method.</p> 
+
 ## Client
-<p>
-The client side is also written in C++ using cocos2dx. The client uses client prediction to handle lag.
-</p>
+<p>The client side is also written in C++ using cocos2dx. The client uses client prediction to handle lag.</p>
+
 ## Build 
 <p>To build the server and client you need to have libevent installed.</p>
 <p>run make</p>
