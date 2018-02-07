@@ -1,0 +1,34 @@
+
+#ifndef DEFINITION_H
+#define DEFINITION_H
+#pragma once
+#define MAPSIZE 5000
+#define SMALLCIRCLE 1200
+#define BIGCIRCLE PLAYER_RADIUS * 2 * 5 + SMALLCIRCLE
+#define MAXIMUM_PLAYER 200
+#define PI 3.14159265359
+#define PLAYER_RADIUS 50
+#define MOVE_SPEED 500
+#define TICK 1/60
+#define SHOOT_SPPED 8
+#define NAME_LENGTH 20
+#define SHOOT_OFFSET 1
+#define BOOST_OFFSET 2
+#define X_OFFSET 3
+#define Y_OFFSET 4
+#define MS_S 1000
+#define FOOD_RADIUS 20
+#define MAX_ITEM 3
+#define ITEM_RADIUS 30
+#define MAX_BULLET 10
+#define BULLET_RADIUS 10
+#define BULLET_DISTANCE 500
+#define ITEM_TIME 5000
+#define MAP_OFFSET 2000
+#define VIEW_RADIUS 1000
+#define CELLSIZE 200
+#define FOOD_SIZE 100
+#define DT 1000.0f / 30.0f
+#define ROTATION_SPEED PI / 4.0f
+#define STEERING_FORCE 2    
+#endif
