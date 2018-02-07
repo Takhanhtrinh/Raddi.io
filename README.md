@@ -1,5 +1,5 @@
 # Raddi.io
-<p>The main purpose of this project to learn how can slither.io and agar.io handle many objects which are food, and players withoutlagging.</p>
+<p>The main purpose of this project to learn how can slither.io and agar.io handle many objects which are food, and players without lagging.</p>
 <img width="958" alt="screen shot 2018-02-06 at 4 10 29 pm" src="https://user-images.githubusercontent.com/16979642/35892073-76837562-0b5c-11e8-88b7-dbbe86d41e25.png">
 <img width="1434" alt="screen shot 2018-02-06 at 4 10 58 pm" src="https://user-images.githubusercontent.com/16979642/35892074-769d0248-0b5c-11e8-930d-e002869f59aa.png">
 <img width="316" alt="screen shot 2018-02-06 at 4 11 08 pm" src="https://user-images.githubusercontent.com/16979642/35892076-76b5e894-0b5c-11e8-94b7-ac7f5d720e36.png">
